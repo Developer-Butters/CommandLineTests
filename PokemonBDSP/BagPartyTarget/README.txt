@@ -1,0 +1,1 @@
+Recorded frames: stopped 2026-11-12 06-00-31.mp4, 3585.0 / 3586.4 / 3586.8 seconds. NoBag: stopped Spear Pillar restart-140. Synthetic_2/6/Ambiguous relocate the selected card to exercise row geometry; these are not recorded double-battle target screens. Live multi-party selection, X-item targeting and switching remain unverified.

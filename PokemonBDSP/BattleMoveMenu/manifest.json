@@ -1,0 +1,45 @@
+{
+  "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-08 10-41-59.mp4",
+  "cases": [
+    {
+      "image": "Wake_MoveList_618-7.png",
+      "seconds": 618.7,
+      "move_count": 4
+    },
+    {
+      "image": "Wake_MoveList_619-1.png",
+      "seconds": 619.1,
+      "move_count": 4
+    },
+    {
+      "image": "Wake_MoveList_1064-9.png",
+      "seconds": 1064.9,
+      "move_count": 4
+    },
+    {
+      "image": "Wake_Attack_620-0.png",
+      "seconds": 620,
+      "move_count": 0
+    },
+    {
+      "image": "Wake_Attack_623-1.png",
+      "seconds": 623.1,
+      "move_count": 0
+    },
+    {
+      "image": "Wake_Fainted_624-1.png",
+      "seconds": 624.1,
+      "move_count": 0
+    },
+    {
+      "image": "Wake_Attack_1069-2.png",
+      "seconds": 1069.2,
+      "move_count": 0
+    },
+    {
+      "image": "Wake_Fainted_1069-5.png",
+      "seconds": 1069.5,
+      "move_count": 0
+    }
+  ]
+}

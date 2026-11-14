@@ -1,0 +1,109 @@
+[
+  {
+    "file": "Floaroma_RepelText_3791-0_True.png",
+    "expected": true,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 3791,
+    "note": ""
+  },
+  {
+    "file": "Floaroma_RepelChoice_3791-3_True.png",
+    "expected": true,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 3791.3,
+    "note": ""
+  },
+  {
+    "file": "Floaroma_Clear_3791-6_True.png",
+    "expected": true,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 3791.6,
+    "note": ""
+  },
+  {
+    "file": "Floaroma_BannerEntering_3790-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 3790,
+    "note": "Full banner not visible; detector intentionally rejects sliding animation."
+  },
+  {
+    "file": "Floaroma_BannerLeaving_3792-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 3792,
+    "note": "Full banner not visible; detector intentionally rejects sliding animation."
+  },
+  {
+    "file": "Floaroma_NoBanner_3793-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 3793,
+    "note": "Full banner not visible; detector intentionally rejects sliding animation."
+  },
+  {
+    "file": "Battle_600-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 600,
+    "note": ""
+  },
+  {
+    "file": "Route204_Sign_650-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 650,
+    "note": ""
+  },
+  {
+    "file": "Oreburgh_Exterior_0-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 0,
+    "note": ""
+  },
+  {
+    "file": "Jubilife_Plaza_1034-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 1034,
+    "note": ""
+  },
+  {
+    "file": "Floaroma_HouseApproach_678-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 678,
+    "note": ""
+  },
+  {
+    "file": "Floaroma_FirstArrival_666-0_True.png",
+    "expected": true,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 666
+  },
+  {
+    "file": "Floaroma_FirstArrivalNorth_667-0_True.png",
+    "expected": true,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 667
+  },
+  {
+    "file": "Floaroma_BeforeBanner_665-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 665
+  },
+  {
+    "file": "Floaroma_AfterBanner_668-0_False.png",
+    "expected": false,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 668
+  },
+  {
+    "file": "Floaroma_EnteringTown_3790-3_True.png",
+    "expected": true,
+    "source_video": "C:/Users/Kevin/Videos/Captures/2026-11-07 21-21-37.mp4",
+    "timestamp_seconds": 3790.3
+  }
+]

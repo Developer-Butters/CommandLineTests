@@ -1,0 +1,59 @@
+{
+  "attribution": "developer-butters",
+  "cases": [
+    {
+      "image": "Route203_PP24.png",
+      "source_video": "C:/Users/mackk/Videos/2026-11-13 06-43-32.mp4",
+      "seconds": 62,
+      "remaining_pp": [
+        24,
+        24,
+        16,
+        24
+      ]
+    },
+    {
+      "image": "Route203_PP23.png",
+      "source_video": "C:/Users/mackk/Videos/2026-11-13 06-43-32.mp4",
+      "seconds": 83,
+      "remaining_pp": [
+        23,
+        24,
+        16,
+        24
+      ]
+    },
+    {
+      "image": "Route203_PP22.png",
+      "source_video": "C:/Users/mackk/Videos/2026-11-13 06-43-32.mp4",
+      "seconds": 140,
+      "remaining_pp": [
+        22,
+        24,
+        16,
+        24
+      ]
+    },
+    {
+      "image": "Gate_PP18.png",
+      "source_video": "C:/Users/mackk/Videos/2026-11-13 06-43-32.mp4",
+      "seconds": 392,
+      "remaining_pp": [
+        18,
+        24,
+        16,
+        24
+      ]
+    },
+    {
+      "image": "DoubleBattle_PP.png",
+      "source_image": "PokemonBDSP/PlayerHPRatio/MoveMenu.png",
+      "remaining_pp": [
+        8,
+        8,
+        9,
+        15
+      ]
+    }
+  ]
+}

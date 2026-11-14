@@ -1,0 +1,262 @@
+{
+  "language": "eng",
+  "cases": [
+    {
+      "image": "ball_pocket_6items.png",
+      "items": [
+        "ultra-ball",
+        "premier-ball",
+        "quick-ball",
+        "timer-ball",
+        "repeat-ball",
+        "dusk-ball",
+        ""
+      ]
+    },
+    {
+      "image": "battle_items_pocket_6items.png",
+      "items": [
+        "x-defense",
+        "guard-spec",
+        "x-speed",
+        "x-sp-def",
+        "x-sp-atk",
+        "poke-doll",
+        ""
+      ]
+    },
+    {
+      "image": "berries_pocket_7items.png",
+      "items": [
+        "pecha-berry",
+        "chesto-berry",
+        "oran-berry",
+        "lum-berry",
+        "tamato-berry",
+        "sitrus-berry",
+        "aspear-berry"
+      ]
+    },
+    {
+      "image": "key_items_pocket.png",
+      "items": [
+        "guidebook",
+        "works-key",
+        "explorer-kit",
+        "bike",
+        "vs-seeker",
+        "secret-medicine",
+        "galactic-key"
+      ]
+    },
+    {
+      "image": "medicine_pocket_7items.png",
+      "items": [
+        "antidote",
+        "revive",
+        "ether",
+        "full-heal",
+        "max-potion",
+        "max-ether",
+        "hyper-potion"
+      ]
+    },
+    {
+      "image": "medicine_pocket_potion_1.png",
+      "items": [
+        "potion",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "image": "other_items_name_sort_position1.png",
+      "items": [
+        "amulet-coin",
+        "calcium",
+        "carbos",
+        "charcoal",
+        "choice-specs",
+        "cleanse-tag",
+        "destiny-knot"
+      ]
+    },
+    {
+      "image": "other_items_name_sort_position6.png",
+      "items": [
+        "amulet-coin",
+        "calcium",
+        "carbos",
+        "charcoal",
+        "choice-specs",
+        "cleanse-tag",
+        "destiny-knot"
+      ]
+    },
+    {
+      "image": "other_items_pocket_escape_1.png",
+      "items": [
+        "escape-rope",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "image": "other_items_type_sort.png",
+      "items": [
+        "super-repel",
+        "max-repel",
+        "escape-rope",
+        "honey",
+        "red-shard",
+        "rare-candy",
+        "pp-up"
+      ]
+    },
+    {
+      "image": "tms_pocket_7items.png",
+      "items": [
+        "tm06",
+        "tm11",
+        "tm14",
+        "tm35",
+        "tm37",
+        "tm42",
+        "tm43"
+      ]
+    },
+    {
+      "image": "pockets/male_tms.png",
+      "cursor": 1,
+      "items": ["tm98", "", "", "", "", "", ""]
+    },
+    {
+      "image": "treasures_pocket_6items.png",
+      "items": [
+        "nugget",
+        "star-piece",
+        "big-pearl",
+        "big-mushroom",
+        "armor-fossil",
+        "rare-bone",
+        ""
+      ]
+    },
+    {
+      "image": "screenshot-20261004-122615633626.png",
+      "items": [
+        "calcium",
+        "carbos",
+        "charcoal",
+        "choice-specs",
+        "cleanse-tag",
+        "destiny-knot",
+        "dusk-stone"
+      ]
+    },
+    {
+      "image": "screenshot-20261004-122623647403.png",
+      "items": [
+        "calcium",
+        "carbos",
+        "charcoal",
+        "choice-specs",
+        "cleanse-tag",
+        "destiny-knot",
+        "dusk-stone"
+      ]
+    },
+    {
+      "image": "screenshot-20261004-122626774941.png",
+      "items": [
+        "amulet-coin",
+        "calcium",
+        "carbos",
+        "charcoal",
+        "choice-specs",
+        "cleanse-tag",
+        "destiny-knot"
+      ]
+    },
+    {
+      "image": "escape-rope-present-row1-20261111.png",
+      "items": [
+        "escape-rope",
+        "repel",
+        "honey",
+        "super-repel",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "image": "potion-present-row1-20261112.png",
+      "items": ["potion", "", "", "", "", "", ""]
+    },
+    {
+      "image": "spanish-potion-attempt1-20261112.png",
+      "language": "spa",
+      "cursor": 1,
+      "items": [
+        "potion",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "image": "spanish-potion-attempt1-late-20261112.png",
+      "language": "spa",
+      "cursor": 1,
+      "items": [
+        "potion",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "image": "spanish-potion-attempt2-20261112.png",
+      "language": "spa",
+      "cursor": 1,
+      "items": [
+        "potion",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "image": "spanish-potion-attempt2-late-20261112.png",
+      "language": "spa",
+      "cursor": 1,
+      "items": [
+        "potion",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}

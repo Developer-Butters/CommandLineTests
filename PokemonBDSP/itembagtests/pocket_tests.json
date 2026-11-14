@@ -84,6 +84,41 @@
       "image": "pockets/male_medicine_new_badges.png",
       "pocket": 1,
       "empty": false
+    },
+    {
+      "image": "spanish-potion-attempt1-20261112.png",
+      "pocket": 1,
+      "empty": false
+    },
+    {
+      "image": "spanish-potion-attempt1-late-20261112.png",
+      "pocket": 1,
+      "empty": false
+    },
+    {
+      "image": "spanish-potion-attempt2-20261112.png",
+      "pocket": 1,
+      "empty": false
+    },
+    {
+      "image": "spanish-potion-attempt2-late-20261112.png",
+      "pocket": 1,
+      "empty": false
+    },
+    {
+      "image": "spanish-potion-overworld-20261112.png",
+      "pocket": 0,
+      "empty": false
+    },
+    {
+      "image": "spanish-potion-main-menu-20261112.png",
+      "pocket": 0,
+      "empty": false
+    },
+    {
+      "image": "spanish-options-not-bag-20261112.png",
+      "pocket": 0,
+      "empty": false
     }
   ]
 }

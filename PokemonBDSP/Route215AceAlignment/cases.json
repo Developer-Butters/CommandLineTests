@@ -1,0 +1,71 @@
+{
+    "video": "2026-11-13 14-00-55.mp4",
+    "cases": [
+        {
+            "image": "east-approach.png",
+            "seconds": 510.0,
+            "located": true,
+            "at_target": false
+        },
+        {
+            "image": "north-offset.png",
+            "seconds": 525.0,
+            "located": true,
+            "at_target": false
+        },
+        {
+            "image": "vertical-recovery-gap.png",
+            "seconds": 540.0,
+            "located": true,
+            "at_target": false
+        },
+        {
+            "image": "goal-second-attempt.png",
+            "seconds": 1060.0,
+            "located": true,
+            "at_target": true
+        },
+        {
+            "image": "westward-recovery.png",
+            "seconds": 1565.0,
+            "located": true,
+            "at_target": false
+        },
+        {
+            "image": "goal-third-attempt.png",
+            "seconds": 1585.0,
+            "located": true,
+            "at_target": true
+        },
+        {
+            "image": "negative-bridge.png",
+            "seconds": 395.0,
+            "located": false,
+            "at_target": false
+        },
+        {
+            "image": "negative-derek.png",
+            "seconds": 415.0,
+            "located": false,
+            "at_target": false
+        },
+        {
+            "image": "negative-stair-base.png",
+            "seconds": 435.0,
+            "located": false,
+            "at_target": false
+        },
+        {
+            "image": "negative-stairs.png",
+            "seconds": 455.0,
+            "located": false,
+            "at_target": false
+        },
+        {
+            "image": "negative-stair-top.png",
+            "seconds": 475.0,
+            "located": false,
+            "at_target": false
+        }
+    ]
+}
