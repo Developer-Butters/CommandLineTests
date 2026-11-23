@@ -1,0 +1,4 @@
+nidoqueen
+100
+female
+Bold

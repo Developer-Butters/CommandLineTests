@@ -1,0 +1,4 @@
+parasect
+30
+female
+Adamant

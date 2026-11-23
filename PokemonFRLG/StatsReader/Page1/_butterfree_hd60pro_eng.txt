@@ -1,0 +1,4 @@
+butterfree
+10
+female
+Relaxed

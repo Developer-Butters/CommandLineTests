@@ -1,0 +1,4 @@
+dragonite
+100
+female
+Careful

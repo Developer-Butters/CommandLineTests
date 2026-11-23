@@ -1,0 +1,4 @@
+blastoise
+100
+male
+Jolly

@@ -1,0 +1,4 @@
+arcanine
+100
+male
+Mild

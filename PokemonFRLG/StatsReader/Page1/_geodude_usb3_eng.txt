@@ -1,0 +1,4 @@
+geodude
+17
+female
+Bashful

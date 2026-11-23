@@ -1,0 +1,4 @@
+magmar
+40
+female
+Bashful

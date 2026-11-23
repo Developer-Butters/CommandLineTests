@@ -1,0 +1,4 @@
+raichu
+100
+male
+Bold

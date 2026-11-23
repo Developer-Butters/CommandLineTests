@@ -1,0 +1,4 @@
+onix
+100
+female
+Timid

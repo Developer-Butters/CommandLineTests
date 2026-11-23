@@ -70,6 +70,9 @@ Then write your unit test cases in [Arduino-Source](https://github.com/PokemonAu
 
 ### Capture card and Switch video distortion calibration
 
+See the [contributing guide](CONTRIBUTING.md) for what to include in your pull
+request. Follow the steps below if you want to run the calibration yourself.
+
 If you haven't done so, provide a pair of calibration screenshots to record the color distortion
 from your capture card + Switch video setting:
 
